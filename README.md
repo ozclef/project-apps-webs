@@ -11,6 +11,11 @@
 Aplicación web tipo **SPA (Single Page Application)** desarrollada en un solo archivo HTML.
 Incluye **landing page, login simulado y panel CRUD**, todo funcionando en el navegador sin backend.
 
+
+<img width="1289" height="923" alt="image" src="https://github.com/user-attachments/assets/4a2e4aa1-f796-4bc4-9ecb-9f2b3a3fdb45" />
+
+
+
 ---
 
 # 🧠 Descripción
@@ -72,6 +77,10 @@ Dentro incluye:
 * No valida credenciales reales
 * Cualquier usuario/contraseña funciona
 
+<img width="1289" height="923" alt="image" src="https://github.com/user-attachments/assets/17f81f1f-a442-474e-b390-27030c44985a" />
+
+
+
 ---
 
 ## 🛠 Panel CRUD (Admin)
@@ -88,6 +97,9 @@ Datos manejados:
 * Tipo (auto/moto)
 * Precio
 * Imagen
+
+<img width="1190" height="569" alt="image" src="https://github.com/user-attachments/assets/4a4a4133-b3b1-42a7-be26-4589e53e053a" />
+
 
 ---
 
